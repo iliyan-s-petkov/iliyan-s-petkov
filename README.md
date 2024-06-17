@@ -33,7 +33,9 @@ helping non-profit community initiatives, and tinkering with electronics and IoT
 </p>
 
 ---
-<!-- Badges taken from https://github.com/Ileriayo/markdown-badges -->
+<!-- Tools and Languages
+Badges taken from https://github.com/Ileriayo/markdown-badges -->
+
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   
@@ -49,8 +51,13 @@ helping non-profit community initiatives, and tinkering with electronics and IoT
         <a href="https://github.com/search?q=user%3Ailiyan-s-petkov+language%3Agraphql"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white"></a>
         <a href="https://github.com/search?q=user%3Ailiyan-s-petkov+language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?logo=ruby&logoColor=white"></a>
 
-      
-
+  <h3>💻  Platforms and automation</h3>    
+        <a href="https://github.com/search?q=user%3Ailiyan-s-petkov+language%3Akubernetes"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3Ailiyan-s-petkov+language%3Adocker"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3Ailiyan-s-petkov+language%3Aansible"><img alt="Ansible" src="https://img.shields.io/badge/ansible-%231A1918.svg?logo=ansible&logoColor=white"></a>
+         <a href="https://github.com/search?q=user%3Ailiyan-s-petkov+language%3Aprometheus"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3Ailiyan-s-petkov+language%3Agrafana"><img alt="Grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?logo=grafana&logoColor=white"></a>
+        <a href="https://github.com/search?q=user%3Ailiyan-s-petkov+language%3Aterraform"><img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white"></a>
   </p>
 
 </details> 
