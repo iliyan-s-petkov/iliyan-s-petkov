@@ -1,4 +1,5 @@
-#   Iliyan Petkov
+# Nice to meet you, I'm Iliyan!
+<img src="https://raw.githubusercontent.com/iliyan-s-petkov/iliyan-s-petkov/master/assets/github-header-image.png" alt="banner that says Iliyan Petkov trainer, consultant & DevOps engineer alongsite a cartoonish image of a ninja using a laptop computer">
 
 **`Kubestronaut | Kubernetes | Docker | DevOps | DevSecOps | Training | Consulting`**
 
